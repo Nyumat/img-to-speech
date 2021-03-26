@@ -1,4 +1,4 @@
-# Optical Charatcer Recognition to Speech
+# Transcribiing Images to Speech
 
 ## [Required Config]
 
