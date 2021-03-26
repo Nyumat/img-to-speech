@@ -1,4 +1,4 @@
-# Transcribiing Images to Speech
+# Transcribing Images to Speech
 
 ## [Required Config]
 
