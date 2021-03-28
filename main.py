@@ -35,5 +35,6 @@ def image_to_sound(PATH):
             print(">> Error thrown while executing. '\n'", thrownError)
             return
 # Now I called the function with the path to the image as an argument
-image_to_sound('image2.jpg')
-input()
+if __name__ == '__main__':
+      image_to_sound('image2.jpg')
+      input()
